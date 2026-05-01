@@ -1,0 +1,201 @@
+product_key,item_code,product_name,category,subcategory,brand,supplier,unit_cost_ratio,typical_unit_cost
+1,Item_10_BEV,FreshFarm Sparkling Cola (100g),Beverages,Soft Drinks,FreshFarm,Global Foods Ltd,0.564,10.43
+2,Item_10_BUT,TechGear Chicken Breast (250g),Butchers,Poultry,TechGear,ElectroSource Inc,0.553,10.23
+3,Item_10_CEA,HomeComfort Mechanical Keyboard (Model C),Computers & Electric Accessories,Components,HomeComfort,ComfortLiving Co,0.628,11.62
+4,Item_10_EHE,NatureBest LED Desk Lamp (Model D),Electric Household Essentials,Lighting,NatureBest,FarmDirect,0.592,10.95
+5,Item_10_FOOD,DailySelect Olive Oil (330ml),Food,Fresh Produce,DailySelect,MetroSupply Chain,0.604,11.17
+6,Item_10_FUR,PrimeChoice Coffee Table (Medium),Furniture,Bedroom,PrimeChoice,PremiumGoods,0.568,10.51
+7,Item_10_MILK,SmartLiving Probiotic Yogurt (100g),Milk Products,Yogurt,SmartLiving,UrbanWare,0.689,12.75
+8,Item_10_PAT,TasteMaster Fruit Tart (250g),Patisserie,Desserts,TasteMaster,HomeStyle Imports,0.559,10.34
+9,Item_11_BEV,FreshFarm Sparkling Cola (500g),Beverages,Soft Drinks,FreshFarm,Global Foods Ltd,0.542,10.84
+10,Item_11_BUT,TechGear Chicken Breast (1kg),Butchers,Poultry,TechGear,ElectroSource Inc,0.553,11.06
+11,Item_11_CEA,HomeComfort Mechanical Keyboard (Model C),Computers & Electric Accessories,Components,HomeComfort,ComfortLiving Co,0.622,12.44
+12,Item_11_EHE,NatureBest LED Desk Lamp (Model D),Electric Household Essentials,Lighting,NatureBest,FarmDirect,0.621,12.42
+13,Item_11_FOOD,DailySelect Olive Oil (100g),Food,Fresh Produce,DailySelect,MetroSupply Chain,0.533,10.66
+14,Item_11_FUR,PrimeChoice Coffee Table (Medium),Furniture,Bedroom,PrimeChoice,PremiumGoods,0.52,10.4
+15,Item_11_MILK,SmartLiving Probiotic Yogurt (500g),Milk Products,Yogurt,SmartLiving,UrbanWare,0.665,13.3
+16,Item_11_PAT,TasteMaster Fruit Tart (1kg),Patisserie,Desserts,TasteMaster,HomeStyle Imports,0.604,12.08
+17,Item_12_BEV,FreshFarm Sparkling Cola (330ml),Beverages,Soft Drinks,FreshFarm,Global Foods Ltd,0.522,11.22
+18,Item_12_BUT,TechGear Chicken Breast (1L),Butchers,Poultry,TechGear,ElectroSource Inc,0.609,13.09
+19,Item_12_CEA,HomeComfort Mechanical Keyboard (Model C),Computers & Electric Accessories,Components,HomeComfort,ComfortLiving Co,0.681,14.64
+20,Item_12_EHE,NatureBest LED Desk Lamp (Model D),Electric Household Essentials,Lighting,NatureBest,FarmDirect,0.571,12.28
+21,Item_12_FOOD,DailySelect Olive Oil (500g),Food,Fresh Produce,DailySelect,MetroSupply Chain,0.611,13.14
+22,Item_12_FUR,PrimeChoice Coffee Table (Medium),Furniture,Bedroom,PrimeChoice,PremiumGoods,0.57,12.26
+23,Item_12_MILK,SmartLiving Probiotic Yogurt (330ml),Milk Products,Yogurt,SmartLiving,UrbanWare,0.634,13.63
+24,Item_12_PAT,TasteMaster Fruit Tart (1L),Patisserie,Desserts,TasteMaster,HomeStyle Imports,0.566,12.17
+25,Item_13_BEV,FreshFarm Sparkling Cola (100g),Beverages,Soft Drinks,FreshFarm,Global Foods Ltd,0.596,13.71
+26,Item_13_BUT,TechGear Chicken Breast (250g),Butchers,Poultry,TechGear,ElectroSource Inc,0.584,13.43
+27,Item_13_CEA,HomeComfort Mechanical Keyboard (Model C),Computers & Electric Accessories,Components,HomeComfort,ComfortLiving Co,0.609,14.01
+28,Item_13_EHE,NatureBest LED Desk Lamp (Model D),Electric Household Essentials,Lighting,NatureBest,FarmDirect,0.58,13.34
+29,Item_13_FOOD,DailySelect Olive Oil (330ml),Food,Fresh Produce,DailySelect,MetroSupply Chain,0.615,14.14
+30,Item_13_FUR,PrimeChoice Coffee Table (Medium),Furniture,Bedroom,PrimeChoice,PremiumGoods,0.56,12.88
+31,Item_13_MILK,SmartLiving Probiotic Yogurt (100g),Milk Products,Yogurt,SmartLiving,UrbanWare,0.681,15.66
+32,Item_13_PAT,TasteMaster Fruit Tart (250g),Patisserie,Desserts,TasteMaster,HomeStyle Imports,0.623,14.33
+33,Item_14_BEV,FreshFarm Sparkling Cola (500g),Beverages,Soft Drinks,FreshFarm,Global Foods Ltd,0.554,13.57
+34,Item_14_BUT,TechGear Chicken Breast (1kg),Butchers,Poultry,TechGear,ElectroSource Inc,0.647,15.85
+35,Item_14_CEA,HomeComfort Mechanical Keyboard (Model C),Computers & Electric Accessories,Components,HomeComfort,ComfortLiving Co,0.638,15.63
+36,Item_14_EHE,NatureBest LED Desk Lamp (Model D),Electric Household Essentials,Lighting,NatureBest,FarmDirect,0.625,15.31
+37,Item_14_FOOD,DailySelect Olive Oil (100g),Food,Fresh Produce,DailySelect,MetroSupply Chain,0.613,15.02
+38,Item_14_FUR,PrimeChoice Coffee Table (Medium),Furniture,Bedroom,PrimeChoice,PremiumGoods,0.562,13.77
+39,Item_14_MILK,SmartLiving Probiotic Yogurt (500g),Milk Products,Yogurt,SmartLiving,UrbanWare,0.686,16.81
+40,Item_14_PAT,TasteMaster Fruit Tart (1kg),Patisserie,Desserts,TasteMaster,HomeStyle Imports,0.608,14.9
+41,Item_15_BEV,FreshFarm Sparkling Cola (330ml),Beverages,Soft Drinks,FreshFarm,Global Foods Ltd,0.57,14.82
+42,Item_15_BUT,TechGear Chicken Breast (1L),Butchers,Poultry,TechGear,ElectroSource Inc,0.555,14.43
+43,Item_15_CEA,HomeComfort Mechanical Keyboard (Model C),Computers & Electric Accessories,Components,HomeComfort,ComfortLiving Co,0.623,16.2
+44,Item_15_EHE,NatureBest LED Desk Lamp (Model D),Electric Household Essentials,Lighting,NatureBest,FarmDirect,0.599,15.57
+45,Item_15_FOOD,DailySelect Olive Oil (500g),Food,Fresh Produce,DailySelect,MetroSupply Chain,0.538,13.99
+46,Item_15_FUR,PrimeChoice Coffee Table (Medium),Furniture,Bedroom,PrimeChoice,PremiumGoods,0.523,13.6
+47,Item_15_MILK,SmartLiving Probiotic Yogurt (330ml),Milk Products,Yogurt,SmartLiving,UrbanWare,0.61,15.86
+48,Item_15_PAT,TasteMaster Fruit Tart (1L),Patisserie,Desserts,TasteMaster,HomeStyle Imports,0.578,15.03
+49,Item_16_BEV,FreshFarm Sparkling Cola (100g),Beverages,Soft Drinks,FreshFarm,Global Foods Ltd,0.564,15.51
+50,Item_16_BUT,TechGear Chicken Breast (250g),Butchers,Poultry,TechGear,ElectroSource Inc,0.586,16.11
+51,Item_16_CEA,HomeComfort Mechanical Keyboard (Model C),Computers & Electric Accessories,Components,HomeComfort,ComfortLiving Co,0.637,17.52
+52,Item_16_EHE,NatureBest LED Desk Lamp (Model D),Electric Household Essentials,Lighting,NatureBest,FarmDirect,0.591,16.25
+53,Item_16_FOOD,DailySelect Olive Oil (330ml),Food,Fresh Produce,DailySelect,MetroSupply Chain,0.557,15.32
+54,Item_16_FUR,PrimeChoice Coffee Table (Medium),Furniture,Bedroom,PrimeChoice,PremiumGoods,0.594,16.34
+55,Item_16_MILK,SmartLiving Probiotic Yogurt (100g),Milk Products,Yogurt,SmartLiving,UrbanWare,0.665,18.29
+56,Item_16_PAT,TasteMaster Fruit Tart (250g),Patisserie,Desserts,TasteMaster,HomeStyle Imports,0.611,16.8
+57,Item_17_BEV,FreshFarm Sparkling Cola (500g),Beverages,Soft Drinks,FreshFarm,Global Foods Ltd,0.517,14.99
+58,Item_17_BUT,TechGear Chicken Breast (1kg),Butchers,Poultry,TechGear,ElectroSource Inc,0.623,18.07
+59,Item_17_CEA,HomeComfort Mechanical Keyboard (Model C),Computers & Electric Accessories,Components,HomeComfort,ComfortLiving Co,0.616,17.86
+60,Item_17_EHE,NatureBest LED Desk Lamp (Model D),Electric Household Essentials,Lighting,NatureBest,FarmDirect,0.608,17.63
+61,Item_17_FOOD,DailySelect Olive Oil (100g),Food,Fresh Produce,DailySelect,MetroSupply Chain,0.629,18.24
+62,Item_17_FUR,PrimeChoice Coffee Table (Medium),Furniture,Bedroom,PrimeChoice,PremiumGoods,0.564,16.36
+63,Item_17_MILK,SmartLiving Probiotic Yogurt (500g),Milk Products,Yogurt,SmartLiving,UrbanWare,0.656,19.02
+64,Item_17_PAT,TasteMaster Fruit Tart (1kg),Patisserie,Desserts,TasteMaster,HomeStyle Imports,0.618,17.92
+65,Item_18_BEV,FreshFarm Sparkling Cola (330ml),Beverages,Soft Drinks,FreshFarm,Global Foods Ltd,0.584,17.81
+66,Item_18_BUT,TechGear Chicken Breast (1L),Butchers,Poultry,TechGear,ElectroSource Inc,0.628,19.15
+67,Item_18_CEA,HomeComfort Mechanical Keyboard (Model C),Computers & Electric Accessories,Components,HomeComfort,ComfortLiving Co,0.623,19.0
+68,Item_18_EHE,NatureBest LED Desk Lamp (Model D),Electric Household Essentials,Lighting,NatureBest,FarmDirect,0.573,17.48
+69,Item_18_FOOD,DailySelect Olive Oil (500g),Food,Fresh Produce,DailySelect,MetroSupply Chain,0.562,17.14
+70,Item_18_FUR,PrimeChoice Coffee Table (Medium),Furniture,Bedroom,PrimeChoice,PremiumGoods,0.527,16.07
+71,Item_18_MILK,SmartLiving Probiotic Yogurt (330ml),Milk Products,Yogurt,SmartLiving,UrbanWare,0.621,18.94
+72,Item_18_PAT,TasteMaster Fruit Tart (1L),Patisserie,Desserts,TasteMaster,HomeStyle Imports,0.644,19.64
+73,Item_19_BEV,FreshFarm Sparkling Cola (100g),Beverages,Soft Drinks,FreshFarm,Global Foods Ltd,0.588,18.82
+74,Item_19_BUT,TechGear Chicken Breast (250g),Butchers,Poultry,TechGear,ElectroSource Inc,0.581,18.59
+75,Item_19_CEA,HomeComfort Mechanical Keyboard (Model C),Computers & Electric Accessories,Components,HomeComfort,ComfortLiving Co,0.666,21.31
+76,Item_19_EHE,NatureBest LED Desk Lamp (Model D),Electric Household Essentials,Lighting,NatureBest,FarmDirect,0.61,19.52
+77,Item_19_FOOD,DailySelect Olive Oil (330ml),Food,Fresh Produce,DailySelect,MetroSupply Chain,0.621,19.87
+78,Item_19_FUR,PrimeChoice Coffee Table (Medium),Furniture,Bedroom,PrimeChoice,PremiumGoods,0.546,17.47
+79,Item_19_MILK,SmartLiving Probiotic Yogurt (100g),Milk Products,Yogurt,SmartLiving,UrbanWare,0.626,20.03
+80,Item_19_PAT,TasteMaster Fruit Tart (250g),Patisserie,Desserts,TasteMaster,HomeStyle Imports,0.575,18.4
+81,Item_1_BEV,FreshFarm Sparkling Cola (500g),Beverages,Soft Drinks,FreshFarm,Global Foods Ltd,0.556,2.78
+82,Item_1_BUT,TechGear Chicken Breast (1kg),Butchers,Poultry,TechGear,ElectroSource Inc,0.576,2.88
+83,Item_1_CEA,HomeComfort Mechanical Keyboard (Model C),Computers & Electric Accessories,Components,HomeComfort,ComfortLiving Co,0.658,3.29
+84,Item_1_EHE,NatureBest LED Desk Lamp (Model D),Electric Household Essentials,Lighting,NatureBest,FarmDirect,0.66,3.3
+85,Item_1_FOOD,DailySelect Olive Oil (100g),Food,Fresh Produce,DailySelect,MetroSupply Chain,0.57,2.85
+86,Item_1_FUR,PrimeChoice Coffee Table (Medium),Furniture,Bedroom,PrimeChoice,PremiumGoods,0.522,2.61
+87,Item_1_MILK,SmartLiving Probiotic Yogurt (500g),Milk Products,Yogurt,SmartLiving,UrbanWare,0.7,3.5
+88,Item_1_PAT,TasteMaster Fruit Tart (1kg),Patisserie,Desserts,TasteMaster,HomeStyle Imports,0.601,3.0
+89,Item_20_BEV,FreshFarm Sparkling Cola (330ml),Beverages,Soft Drinks,FreshFarm,Global Foods Ltd,0.509,17.05
+90,Item_20_BUT,TechGear Chicken Breast (1L),Butchers,Poultry,TechGear,ElectroSource Inc,0.555,18.59
+91,Item_20_CEA,HomeComfort Mechanical Keyboard (Model C),Computers & Electric Accessories,Components,HomeComfort,ComfortLiving Co,0.611,20.47
+92,Item_20_EHE,NatureBest LED Desk Lamp (Model D),Electric Household Essentials,Lighting,NatureBest,FarmDirect,0.633,21.21
+93,Item_20_FOOD,DailySelect Olive Oil (500g),Food,Fresh Produce,DailySelect,MetroSupply Chain,0.609,20.4
+94,Item_20_FUR,PrimeChoice Coffee Table (Medium),Furniture,Bedroom,PrimeChoice,PremiumGoods,0.542,18.16
+95,Item_20_MILK,SmartLiving Probiotic Yogurt (330ml),Milk Products,Yogurt,SmartLiving,UrbanWare,0.606,20.3
+96,Item_20_PAT,TasteMaster Fruit Tart (1L),Patisserie,Desserts,TasteMaster,HomeStyle Imports,0.588,19.7
+97,Item_21_BEV,FreshFarm Sparkling Cola (100g),Beverages,Soft Drinks,FreshFarm,Global Foods Ltd,0.6,21.0
+98,Item_21_BUT,TechGear Chicken Breast (250g),Butchers,Poultry,TechGear,ElectroSource Inc,0.603,21.1
+99,Item_21_CEA,HomeComfort Mechanical Keyboard (Model C),Computers & Electric Accessories,Components,HomeComfort,ComfortLiving Co,0.697,24.4
+100,Item_21_EHE,NatureBest LED Desk Lamp (Model D),Electric Household Essentials,Lighting,NatureBest,FarmDirect,0.656,22.96
+101,Item_21_FOOD,DailySelect Olive Oil (330ml),Food,Fresh Produce,DailySelect,MetroSupply Chain,0.531,18.58
+102,Item_21_FUR,PrimeChoice Coffee Table (Medium),Furniture,Bedroom,PrimeChoice,PremiumGoods,0.572,20.02
+103,Item_21_MILK,SmartLiving Probiotic Yogurt (100g),Milk Products,Yogurt,SmartLiving,UrbanWare,0.668,23.38
+104,Item_21_PAT,TasteMaster Fruit Tart (250g),Patisserie,Desserts,TasteMaster,HomeStyle Imports,0.604,21.14
+105,Item_22_BEV,FreshFarm Sparkling Cola (500g),Beverages,Soft Drinks,FreshFarm,Global Foods Ltd,0.527,19.24
+106,Item_22_BUT,TechGear Chicken Breast (1kg),Butchers,Poultry,TechGear,ElectroSource Inc,0.614,22.41
+107,Item_22_CEA,HomeComfort Mechanical Keyboard (Model C),Computers & Electric Accessories,Components,HomeComfort,ComfortLiving Co,0.611,22.3
+108,Item_22_EHE,NatureBest LED Desk Lamp (Model D),Electric Household Essentials,Lighting,NatureBest,FarmDirect,0.613,22.37
+109,Item_22_FOOD,DailySelect Olive Oil (100g),Food,Fresh Produce,DailySelect,MetroSupply Chain,0.575,20.99
+110,Item_22_FUR,PrimeChoice Coffee Table (Medium),Furniture,Bedroom,PrimeChoice,PremiumGoods,0.595,21.72
+111,Item_22_MILK,SmartLiving Probiotic Yogurt (500g),Milk Products,Yogurt,SmartLiving,UrbanWare,0.688,25.11
+112,Item_22_PAT,TasteMaster Fruit Tart (1kg),Patisserie,Desserts,TasteMaster,HomeStyle Imports,0.576,21.02
+113,Item_23_BEV,FreshFarm Sparkling Cola (330ml),Beverages,Soft Drinks,FreshFarm,Global Foods Ltd,0.55,20.9
+114,Item_23_BUT,TechGear Chicken Breast (1L),Butchers,Poultry,TechGear,ElectroSource Inc,0.568,21.58
+115,Item_23_CEA,HomeComfort Mechanical Keyboard (Model C),Computers & Electric Accessories,Components,HomeComfort,ComfortLiving Co,0.691,26.26
+116,Item_23_EHE,NatureBest LED Desk Lamp (Model D),Electric Household Essentials,Lighting,NatureBest,FarmDirect,0.657,24.97
+117,Item_23_FOOD,DailySelect Olive Oil (500g),Food,Fresh Produce,DailySelect,MetroSupply Chain,0.56,21.28
+118,Item_23_FUR,PrimeChoice Coffee Table (Medium),Furniture,Bedroom,PrimeChoice,PremiumGoods,0.564,21.43
+119,Item_23_MILK,SmartLiving Probiotic Yogurt (330ml),Milk Products,Yogurt,SmartLiving,UrbanWare,0.661,25.12
+120,Item_23_PAT,TasteMaster Fruit Tart (1L),Patisserie,Desserts,TasteMaster,HomeStyle Imports,0.565,21.47
+121,Item_24_BEV,FreshFarm Sparkling Cola (100g),Beverages,Soft Drinks,FreshFarm,Global Foods Ltd,0.576,22.75
+122,Item_24_BUT,TechGear Chicken Breast (250g),Butchers,Poultry,TechGear,ElectroSource Inc,0.604,23.86
+123,Item_24_CEA,HomeComfort Mechanical Keyboard (Model C),Computers & Electric Accessories,Components,HomeComfort,ComfortLiving Co,0.678,26.78
+124,Item_24_EHE,NatureBest LED Desk Lamp (Model D),Electric Household Essentials,Lighting,NatureBest,FarmDirect,0.623,24.61
+125,Item_24_FOOD,DailySelect Olive Oil (330ml),Food,Fresh Produce,DailySelect,MetroSupply Chain,0.53,20.94
+126,Item_24_FUR,PrimeChoice Coffee Table (Medium),Furniture,Bedroom,PrimeChoice,PremiumGoods,0.532,21.01
+127,Item_24_MILK,SmartLiving Probiotic Yogurt (100g),Milk Products,Yogurt,SmartLiving,UrbanWare,0.602,23.78
+128,Item_24_PAT,TasteMaster Fruit Tart (250g),Patisserie,Desserts,TasteMaster,HomeStyle Imports,0.643,25.4
+129,Item_25_BEV,FreshFarm Sparkling Cola (500g),Beverages,Soft Drinks,FreshFarm,Global Foods Ltd,0.588,24.11
+130,Item_25_BUT,TechGear Chicken Breast (1kg),Butchers,Poultry,TechGear,ElectroSource Inc,0.633,25.95
+131,Item_25_CEA,HomeComfort Mechanical Keyboard (Model C),Computers & Electric Accessories,Components,HomeComfort,ComfortLiving Co,0.631,25.87
+132,Item_25_EHE,NatureBest LED Desk Lamp (Model D),Electric Household Essentials,Lighting,NatureBest,FarmDirect,0.576,23.62
+133,Item_25_FOOD,DailySelect Olive Oil (100g),Food,Fresh Produce,DailySelect,MetroSupply Chain,0.618,25.34
+134,Item_25_FUR,PrimeChoice Coffee Table (Medium),Furniture,Bedroom,PrimeChoice,PremiumGoods,0.595,24.4
+135,Item_25_MILK,SmartLiving Probiotic Yogurt (500g),Milk Products,Yogurt,SmartLiving,UrbanWare,0.609,24.97
+136,Item_25_PAT,TasteMaster Fruit Tart (1kg),Patisserie,Desserts,TasteMaster,HomeStyle Imports,0.599,24.56
+137,Item_2_BEV,FreshFarm Sparkling Cola (330ml),Beverages,Soft Drinks,FreshFarm,Global Foods Ltd,0.507,3.3
+138,Item_2_BUT,TechGear Chicken Breast (1L),Butchers,Poultry,TechGear,ElectroSource Inc,0.626,4.07
+139,Item_2_CEA,HomeComfort Mechanical Keyboard (Model C),Computers & Electric Accessories,Components,HomeComfort,ComfortLiving Co,0.677,4.4
+140,Item_2_EHE,NatureBest LED Desk Lamp (Model D),Electric Household Essentials,Lighting,NatureBest,FarmDirect,0.583,3.79
+141,Item_2_FOOD,DailySelect Olive Oil (500g),Food,Fresh Produce,DailySelect,MetroSupply Chain,0.578,3.76
+142,Item_2_FUR,PrimeChoice Coffee Table (Medium),Furniture,Bedroom,PrimeChoice,PremiumGoods,0.555,3.61
+143,Item_2_MILK,SmartLiving Probiotic Yogurt (330ml),Milk Products,Yogurt,SmartLiving,UrbanWare,0.627,4.08
+144,Item_2_PAT,TasteMaster Fruit Tart (1L),Patisserie,Desserts,TasteMaster,HomeStyle Imports,0.637,4.14
+145,Item_3_BEV,FreshFarm Sparkling Cola (100g),Beverages,Soft Drinks,FreshFarm,Global Foods Ltd,0.542,4.34
+146,Item_3_BUT,TechGear Chicken Breast (250g),Butchers,Poultry,TechGear,ElectroSource Inc,0.571,4.57
+147,Item_3_CEA,HomeComfort Mechanical Keyboard (Model C),Computers & Electric Accessories,Components,HomeComfort,ComfortLiving Co,0.654,5.23
+148,Item_3_EHE,NatureBest LED Desk Lamp (Model D),Electric Household Essentials,Lighting,NatureBest,FarmDirect,0.643,5.14
+149,Item_3_FOOD,DailySelect Olive Oil (330ml),Food,Fresh Produce,DailySelect,MetroSupply Chain,0.55,4.4
+150,Item_3_FUR,PrimeChoice Coffee Table (Medium),Furniture,Bedroom,PrimeChoice,PremiumGoods,0.531,4.25
+151,Item_3_MILK,SmartLiving Probiotic Yogurt (100g),Milk Products,Yogurt,SmartLiving,UrbanWare,0.7,5.6
+152,Item_3_PAT,TasteMaster Fruit Tart (250g),Patisserie,Desserts,TasteMaster,HomeStyle Imports,0.615,4.92
+153,Item_4_BEV,FreshFarm Sparkling Cola (500g),Beverages,Soft Drinks,FreshFarm,Global Foods Ltd,0.544,5.17
+154,Item_4_BUT,TechGear Chicken Breast (1kg),Butchers,Poultry,TechGear,ElectroSource Inc,0.602,5.72
+155,Item_4_CEA,HomeComfort Mechanical Keyboard (Model C),Computers & Electric Accessories,Components,HomeComfort,ComfortLiving Co,0.612,5.81
+156,Item_4_EHE,NatureBest LED Desk Lamp (Model D),Electric Household Essentials,Lighting,NatureBest,FarmDirect,0.592,5.62
+157,Item_4_FOOD,DailySelect Olive Oil (100g),Food,Fresh Produce,DailySelect,MetroSupply Chain,0.564,5.36
+158,Item_4_FUR,PrimeChoice Coffee Table (Medium),Furniture,Bedroom,PrimeChoice,PremiumGoods,0.559,5.31
+159,Item_4_MILK,SmartLiving Probiotic Yogurt (500g),Milk Products,Yogurt,SmartLiving,UrbanWare,0.623,5.92
+160,Item_4_PAT,TasteMaster Fruit Tart (1kg),Patisserie,Desserts,TasteMaster,HomeStyle Imports,0.572,5.43
+161,Item_5_BEV,FreshFarm Sparkling Cola (330ml),Beverages,Soft Drinks,FreshFarm,Global Foods Ltd,0.507,5.58
+162,Item_5_BUT,TechGear Chicken Breast (1L),Butchers,Poultry,TechGear,ElectroSource Inc,0.613,6.74
+163,Item_5_CEA,HomeComfort Mechanical Keyboard (Model C),Computers & Electric Accessories,Components,HomeComfort,ComfortLiving Co,0.623,6.85
+164,Item_5_EHE,NatureBest LED Desk Lamp (Model D),Electric Household Essentials,Lighting,NatureBest,FarmDirect,0.661,7.27
+165,Item_5_FOOD,DailySelect Olive Oil (500g),Food,Fresh Produce,DailySelect,MetroSupply Chain,0.616,6.78
+166,Item_5_FUR,PrimeChoice Coffee Table (Medium),Furniture,Bedroom,PrimeChoice,PremiumGoods,0.507,5.58
+167,Item_5_MILK,SmartLiving Probiotic Yogurt (330ml),Milk Products,Yogurt,SmartLiving,UrbanWare,0.624,6.86
+168,Item_5_PAT,TasteMaster Fruit Tart (1L),Patisserie,Desserts,TasteMaster,HomeStyle Imports,0.617,6.79
+169,Item_6_BEV,FreshFarm Sparkling Cola (100g),Beverages,Soft Drinks,FreshFarm,Global Foods Ltd,0.521,6.51
+170,Item_6_BUT,TechGear Chicken Breast (250g),Butchers,Poultry,TechGear,ElectroSource Inc,0.563,7.04
+171,Item_6_CEA,HomeComfort Mechanical Keyboard (Model C),Computers & Electric Accessories,Components,HomeComfort,ComfortLiving Co,0.694,8.67
+172,Item_6_EHE,NatureBest LED Desk Lamp (Model D),Electric Household Essentials,Lighting,NatureBest,FarmDirect,0.627,7.84
+173,Item_6_FOOD,DailySelect Olive Oil (330ml),Food,Fresh Produce,DailySelect,MetroSupply Chain,0.577,7.21
+174,Item_6_FUR,PrimeChoice Coffee Table (Medium),Furniture,Bedroom,PrimeChoice,PremiumGoods,0.578,7.22
+175,Item_6_MILK,SmartLiving Probiotic Yogurt (100g),Milk Products,Yogurt,SmartLiving,UrbanWare,0.681,8.51
+176,Item_6_PAT,TasteMaster Fruit Tart (250g),Patisserie,Desserts,TasteMaster,HomeStyle Imports,0.569,7.11
+177,Item_7_BEV,FreshFarm Sparkling Cola (500g),Beverages,Soft Drinks,FreshFarm,Global Foods Ltd,0.51,7.14
+178,Item_7_BUT,TechGear Chicken Breast (1kg),Butchers,Poultry,TechGear,ElectroSource Inc,0.593,8.3
+179,Item_7_CEA,HomeComfort Mechanical Keyboard (Model C),Computers & Electric Accessories,Components,HomeComfort,ComfortLiving Co,0.642,8.99
+180,Item_7_EHE,NatureBest LED Desk Lamp (Model D),Electric Household Essentials,Lighting,NatureBest,FarmDirect,0.617,8.64
+181,Item_7_FOOD,DailySelect Olive Oil (100g),Food,Fresh Produce,DailySelect,MetroSupply Chain,0.603,8.44
+182,Item_7_FUR,PrimeChoice Coffee Table (Medium),Furniture,Bedroom,PrimeChoice,PremiumGoods,0.567,7.94
+183,Item_7_MILK,SmartLiving Probiotic Yogurt (500g),Milk Products,Yogurt,SmartLiving,UrbanWare,0.698,9.77
+184,Item_7_PAT,TasteMaster Fruit Tart (1kg),Patisserie,Desserts,TasteMaster,HomeStyle Imports,0.56,7.84
+185,Item_8_BEV,FreshFarm Sparkling Cola (330ml),Beverages,Soft Drinks,FreshFarm,Global Foods Ltd,0.54,8.37
+186,Item_8_BUT,TechGear Chicken Breast (1L),Butchers,Poultry,TechGear,ElectroSource Inc,0.584,9.05
+187,Item_8_CEA,HomeComfort Mechanical Keyboard (Model C),Computers & Electric Accessories,Components,HomeComfort,ComfortLiving Co,0.686,10.63
+188,Item_8_EHE,NatureBest LED Desk Lamp (Model D),Electric Household Essentials,Lighting,NatureBest,FarmDirect,0.595,9.22
+189,Item_8_FOOD,DailySelect Olive Oil (500g),Food,Fresh Produce,DailySelect,MetroSupply Chain,0.549,8.51
+190,Item_8_FUR,PrimeChoice Coffee Table (Medium),Furniture,Bedroom,PrimeChoice,PremiumGoods,0.545,8.45
+191,Item_8_MILK,SmartLiving Probiotic Yogurt (330ml),Milk Products,Yogurt,SmartLiving,UrbanWare,0.642,9.95
+192,Item_8_PAT,TasteMaster Fruit Tart (1L),Patisserie,Desserts,TasteMaster,HomeStyle Imports,0.578,8.96
+193,Item_9_BEV,FreshFarm Sparkling Cola (100g),Beverages,Soft Drinks,FreshFarm,Global Foods Ltd,0.525,8.93
+194,Item_9_BUT,TechGear Chicken Breast (250g),Butchers,Poultry,TechGear,ElectroSource Inc,0.642,10.91
+195,Item_9_CEA,HomeComfort Mechanical Keyboard (Model C),Computers & Electric Accessories,Components,HomeComfort,ComfortLiving Co,0.644,10.95
+196,Item_9_EHE,NatureBest LED Desk Lamp (Model D),Electric Household Essentials,Lighting,NatureBest,FarmDirect,0.656,11.15
+197,Item_9_FOOD,DailySelect Olive Oil (330ml),Food,Fresh Produce,DailySelect,MetroSupply Chain,0.585,9.94
+198,Item_9_FUR,PrimeChoice Coffee Table (Medium),Furniture,Bedroom,PrimeChoice,PremiumGoods,0.505,8.59
+199,Item_9_MILK,SmartLiving Probiotic Yogurt (100g),Milk Products,Yogurt,SmartLiving,UrbanWare,0.7,11.9
+200,Item_9_PAT,TasteMaster Fruit Tart (250g),Patisserie,Desserts,TasteMaster,HomeStyle Imports,0.634,10.78
