@@ -1,0 +1,11 @@
+employee_key,employee_id,employee_name,region,hire_date,job_title
+1,EMP_001,Lori Allen,Southeast,2023-01-12,Senior Sales Rep
+2,EMP_002,Caroline Bell,Midwest,2023-01-13,Sales Associate
+3,EMP_003,Hector Lee,Southwest,2020-07-21,Sales Associate
+4,EMP_004,Kenneth Shaffer,West,2022-10-05,Sales Associate
+5,EMP_005,Ryan Ramirez,Northwest,2022-07-04,Sales Associate
+6,EMP_006,Katherine Reyes,Central,2021-01-26,Sales Associate
+7,EMP_007,Mr. Tracy Washington,England,2020-03-18,Senior Sales Rep
+8,EMP_008,Mary Simpson,Scotland,2019-07-03,Senior Sales Rep
+9,EMP_009,Sydney Clark,Northeast,2019-10-28,Senior Sales Rep
+10,EMP_010,Kristen Gallagher,Southeast,2021-01-13,Senior Sales Rep
